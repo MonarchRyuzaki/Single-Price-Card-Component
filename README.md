@@ -12,7 +12,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgmen](#acknowledgments)
+- [Acknowledgment](#acknowledgments)
 
 ## Overview
 
@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/MonarchRyuzaki/Single-Price-Card-Component)
+- Live Site URL: [LivePage](https://monarchryuzaki.github.io/Single-Price-Card-Component/)
 
 ## My process
 
