@@ -15,7 +15,7 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    min-height: 100vh;  /*Use min-height: 100vh for main instead of height: 100vh. Setting the height: 100vh may result in the component being cut off on smaller screens, such as mobile devices in landscape orientation. */
 }
 .cardMain{
     width: 700px;
